@@ -1,0 +1,48 @@
+https://openweathermap.org/api
+api.openweathermap.org/data/2.5/weather?appId=<auth-app-id>&q=Mumbai
+
+Returns JSON format output
+
+
+https://openweathermap.org/appid
+1 Sign up and get an API key (APPID) on your account page.
+
+It takes up to 1 hour to activate your API key. We send you a confirmation email as your API key is ready to work.
+
+2 Start using API for free. 
+
+Find the complete description of API calls with a list of parameters and examples of responses in  API documentation. 
+
+Please, use API key in each API call. 
+
+3 If you need more features than Free account can give you, look at the options of our monthly subscriptions here. 
+
+Choose your subscription depending on a number of calls per sec, API availability, service provided, and other features.
+
+Contact us via Support Center.
+
+
+
+API keys
+
+API key will be activated and ready for using within a couple of hours. 
+ You can generate as many API keys as needed for your subscription. We accumulate the total load from all of them. 
+
+Key                                  Name
+23719b603ff517a54cbd288296a9a81f    Default 
+
+
+Create key
+* Name : BriteLight
+
+----(generated new key)----
+
+Key
+
+Name
+
+
+Key                                  Name
+23719b603ff517a54cbd288296a9a81f    Default 
+5d3d6848798ca04de7a45067fb0551a4    BriteLight 
+
